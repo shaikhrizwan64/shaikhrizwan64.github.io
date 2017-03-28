@@ -6247,7 +6247,7 @@ body {
   .jumbotron {
     border-bottom: 0; } }
 body {
-  margin-top: 50px; }
+  margin-top: 45px; }
 
 .avatar {
   width: 80px;
@@ -6264,3 +6264,9 @@ img.index_p {
 a.nostyle {
   text-decoration: none;
   color: black; }
+
+div#google_translate_element {
+  position: absolute;
+  top: -32px;
+  right: 15px;
+  z-index: 9999; }
