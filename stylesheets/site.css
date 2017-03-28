@@ -6267,6 +6267,5 @@ a.nostyle {
 
 div#google_translate_element {
   position: absolute;
-  top: -32px;
-  right: 15px;
-  z-index: 9999; }
+  top: 15px;
+  right: 15px; }
