@@ -6298,3 +6298,7 @@ div.line {
   height: 1px;
   border-bottom: 1px solid #183883;
   margin-bottom: 15px; }
+
+i.icons {
+  font-size: 20px;
+  padding: 2px; }
