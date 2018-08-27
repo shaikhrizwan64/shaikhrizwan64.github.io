@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.rgsinternational.in/about.html</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.rgsinternational.in/contact.html</loc>
+    <loc>http://www.rgsinternational.in/product_agro.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -13,11 +9,15 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.rgsinternational.in/product_agro/cumin-seeds.html</loc>
+    <loc>http://www.rgsinternational.in/contact.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.rgsinternational.in/product_agro/mangoes.html</loc>
+    <loc>http://www.rgsinternational.in/product_hospitality.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.rgsinternational.in/product_tiles.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -29,15 +29,15 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.rgsinternational.in/product_agro.html</loc>
+    <loc>http://www.rgsinternational.in/product_agro/cumin-seeds.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.rgsinternational.in/product_hospitality.html</loc>
+    <loc>http://www.rgsinternational.in/product_agro/mangoes.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.rgsinternational.in/product_led.html</loc>
+    <loc>http://www.rgsinternational.in/about.html</loc>
     <priority>0.7</priority>
   </url>
 </urlset>
